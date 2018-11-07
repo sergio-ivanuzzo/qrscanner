@@ -1,0 +1,7 @@
+video, canvas {
+  border: 1px solid gold;
+}
+
+.scan, .result {
+    display: none;
+}
